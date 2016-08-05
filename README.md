@@ -14,7 +14,7 @@ Selenium 기반을 만들어짐
 
 >JAVA 설치 필수
 
->chromedriver.exe 필수 (프로젝트 내 chromedriver.exe 파일을 C:나 D: 경로에 복사)
+>chromedriver.exe 필수 (프로젝트 lib 폴더 내 chromedriver.exe 파일을 C:나 D: 경로에 복사)
  
 
 
