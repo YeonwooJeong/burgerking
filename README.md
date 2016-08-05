@@ -4,6 +4,12 @@
 
 Selenium 기반을 만들어짐
 
+
+설문조사 코드 입력, 속도 입력 (공백일 경우 기본값 100ms)
+확인코드는 =에 출력됨
+
+![실행화면](https://github.com/YeonwooJeong/burgerking/blob/master/%EC%9D%B4%EB%AF%B8%EC%A7%80%202.png)
+
 ##필수 환경
 
 >JAVA 설치 필수
