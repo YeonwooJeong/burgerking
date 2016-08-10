@@ -47,7 +47,7 @@ public class survey {
 			System.setProperty("webdriver.chrome.driver", "d:/chromedriver.exe"); //크롬 드라이버 파일 경로설정	
 		}else{
 			//안내문
-			runner.labelIntroduce.setText("C 또는 D드라이브에 chromedriver가 없습니다.\n");
+			runner.labelIntroduce.setText("chromedriver가 없습니다.\n");
 		}
         driver = new ChromeDriver();
         driver.manage().timeouts().implicitlyWait(0, TimeUnit.SECONDS);
