@@ -31,7 +31,7 @@ class runner extends Thread{
         try {
 			survey.setUp();
 		} catch (Exception e2) {
-			// TODO Auto-generated catch block
+			// TODO Auto-generated catch blockㅇㅇㅇ
 			e2.printStackTrace();
 		}
         survey.inputNumber(receiptNum, txt_speed);
